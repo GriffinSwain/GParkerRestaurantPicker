@@ -1,4 +1,7 @@
-﻿Console.Clear();
+﻿//Griffin Parker
+//October 20. 2022
+//Project # 3 - Restaurant Picker
+
 int choice = 0;
 int num = 0;
 string picked = "";
@@ -10,7 +13,7 @@ bool ending = false;
 bool repeat = true;
 bool like = false;
 Random rndNum = new Random();
-string [] badRestaurants = {"Applebees", "Olive Garden", "McDonalds", "Burger King", "Del Taco", "Domino's", "Subway", "Local Greasy Chinese Restaurant", "Denny's", "Mimi's Cafe"};
+string [] badRestaurants = {"Applebees", "Olive Garden", "McDonalds", "Burger King", "Del Taco", "Domino's", "Subway", "Your Nearest Greasy Chinese Restaurant", "Denny's", "Mimi's Cafe"};
 string [] decentRestaurants = {"In-n-Out", "Wendy's", "Five Guys", "Rubio's", "Your Local Taco Truck", "Taco Bell", "Old Spaghetti Factory", "PizzaHut", "Togo's", "Papa John's"};
 string [] goodRestaurants = {"Shadowbrook", "Smack Pie", "Market Tavern", "Papapavlo's", "The Creamery", "Fenton's", "The Dancing Fox", "Michael David Winery", "Prime Table Steakhouse", "Misaki Sushi"};
 
@@ -81,7 +84,7 @@ RestaurantChoice(picked);
 Thread.Sleep(4000);
 while (ending == false)
 {
-Console.WriteLine("Would you like to play again? \"yes\"? Or \"no\"?");
+Console.WriteLine("\nWould you like to play again? \"yes\"? Or \"no\"?");
 loop = Console.ReadLine().ToLower();
 switch (loop)
 {
