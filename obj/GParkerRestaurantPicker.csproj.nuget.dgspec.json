@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj": {}
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj": {
+    "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
+        "projectUniqueName": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
         "projectName": "GParkerRestaurantPicker",
-        "projectPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
-        "packagesPath": "C:\\Users\\truck\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\Desktop\\Homework\\Mini Challenges\\MiniChallengesGitHub\\Completed\\GParkerRestaurantPicker\\obj\\",
+        "projectPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
+        "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\truck\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

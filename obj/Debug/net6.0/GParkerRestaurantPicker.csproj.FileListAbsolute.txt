@@ -28,3 +28,18 @@ C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\Completed\GPark
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\Completed\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.pdb
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\Completed\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.genruntimeconfig.cache
 C:\Desktop\Desktop\Homework\Mini Challenges\MiniChallengesGitHub\Completed\GParkerRestaurantPicker\obj\Debug\net6.0\ref\GParkerRestaurantPicker.dll
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\bin\Debug\net6.0\GParkerRestaurantPicker.exe
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\bin\Debug\net6.0\GParkerRestaurantPicker.deps.json
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\bin\Debug\net6.0\GParkerRestaurantPicker.runtimeconfig.json
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\bin\Debug\net6.0\GParkerRestaurantPicker.dll
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\bin\Debug\net6.0\GParkerRestaurantPicker.pdb
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.AssemblyInfo.cs
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.dll
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\refint\GParkerRestaurantPicker.dll
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.pdb
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\GParkerRestaurantPicker.genruntimeconfig.cache
+C:\Users\Mark\Downloads\GitRepository\GParkerRestaurantPicker\obj\Debug\net6.0\ref\GParkerRestaurantPicker.dll
