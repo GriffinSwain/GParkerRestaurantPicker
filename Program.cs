@@ -130,7 +130,7 @@ Console.WriteLine("               | / : \\ / : \\ / : \\ |");
 Console.WriteLine("               |V.','.V.','.V.','.V|");
 Console.WriteLine("               \\`./_\\.;./_\\.;./_\\.`/");
 Console.WriteLine("                ';..___________..;'");
- Console.WriteLine("\nUsing the powers of Randomness granted to me by RNGesus, I besto upon you this choice!\n                    You should eat at"); 
+ Console.WriteLine("\nUsing the powers of Randomness granted to me by RNGesus, I bestow upon you this choice!\n                    You should eat at"); 
 }
 
 static void RightDrum(string eyes)
@@ -156,5 +156,5 @@ Console.WriteLine("               | / : \\ / : \\ / : \\ |");
 Console.WriteLine("               |V.','.V.','.V.','.V|");
 Console.WriteLine("               \\`./_\\.;./_\\.;./_\\.`/");
 Console.WriteLine("                ';..___________..;'");
-Console.WriteLine("\nUsing the powers of Randomness granted to me by RNGesus, I besto upon you this choice!\n                    You should eat at");
+Console.WriteLine("\nUsing the powers of Randomness granted to me by RNGesus, I bestow upon you this choice!\n                    You should eat at");
 }
