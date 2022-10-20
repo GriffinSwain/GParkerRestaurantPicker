@@ -2,6 +2,7 @@
 //October 20. 2022
 //Project # 3 - Restaurant Picker
 //This program gives the user to choose from three different types of restaurants and then gives them a random restaurant that they should go to.
+//Peer Reviewed by Reed Goodwin & Mark Ramirez
 
 int choice = 0;
 int num = 0;
