@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mark\\.nuget\\packages\\": {}
+    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
+      "projectUniqueName": "C:\\Users\\rsgoo\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
       "projectName": "GParkerRestaurantPicker",
-      "projectPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
-      "packagesPath": "C:\\Users\\Mark\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mark\\Downloads\\GitRepository\\GParkerRestaurantPicker\\obj\\",
+      "projectPath": "C:\\Users\\rsgoo\\GParkerRestaurantPicker\\GParkerRestaurantPicker.csproj",
+      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rsgoo\\GParkerRestaurantPicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mark\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
